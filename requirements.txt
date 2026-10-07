@@ -1,0 +1,4 @@
+# Dependencies for Zepp to Endurain FIT exporter
+requests
+python-dotenv
+fit-tool
